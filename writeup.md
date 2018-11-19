@@ -51,7 +51,7 @@ My pipeline consisted of 7 steps.
 1. As this is a very basic algorithm, it doesn't work very well with the optional challenge.
 2. As this is written in python, running this is in production will cause a lot of performance issues, especially with videos
 3. There's a tiny offset in the predicted lane line which differs from the actual lane line.
-4. It doesn't in conditions, where we are very close to either side of the road.
+4. It doesn't work in conditions, where we are very close to either side of the road.
 
 
 ### 3. Suggest possible improvements to your pipeline
