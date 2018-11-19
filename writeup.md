@@ -43,6 +43,8 @@ My pipeline consisted of 7 steps.
 
 7. Now, using weighted_img function, I merged these lines with the orignal image.
 
+![final_image](writeup_images/ready.png)
+
 ### 2. Identify potential shortcomings with your current pipeline
 
 
